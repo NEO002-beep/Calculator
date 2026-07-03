@@ -50,7 +50,7 @@ int main(){
 			cin >> inputWord;
 
 						if(inputWord == "EXIT" || inputWord == "exit"){
-							cout << "Goodbye" << endl;
+							cout << "Goodbye :)" << endl;
 						break;}
 	}
 
